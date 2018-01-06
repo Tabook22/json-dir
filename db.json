@@ -7,6 +7,10 @@
   ],
   "profile": { "name": "typicode" },
   "employee":[
-    {"id":1,"empName":"Nasser","title":"Eng","Dep":"IT"}
+    {"id":1,"empName":"Nasser","title":"Eng","Dep":"IT"},
+    {"id":2,"empName":"Mohammed","title":"DM","Dep":"HR"},
+    {"id":3,"empName":"Said","title":"Pro","Dep":"CC"},
+    {"id":4,"empName":"Salim","title":"Dr.","Dep":"ST"},
+    {"id":5,"empName":"Ahmed","title":"Eng","Dep":"IT"}
   ]
 }
