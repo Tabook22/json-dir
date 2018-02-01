@@ -2,17 +2,6 @@
   "posts": [
     { "id": 1, "title": "json-server", "author": "typicode" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" },
-  "employee":[
-    {"id":1,"empName":"Nasser","title":"Eng","Dep":"IT","salary":5000},
-    {"id":2,"empName":"Mohammed","title":"DM","Dep":"HR","salary":2000},
-    {"id":3,"empName":"Said","title":"Pro","Dep":"CC","salary":4000},
-    {"id":4,"empName":"Salim","title":"Dr.","Dep":"ST","salary":3000},
-    {"id":5,"empName":"Ahmed","title":"Eng","Dep":"IT","salary":5000}
-  ],
   "games":[
     {
       "id":"1",
